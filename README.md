@@ -18,4 +18,13 @@ Final submission scored **0.90603** on the public leaderboard.
 
 ## Stack
 
-pandas, scikit-learn, CatBoost, LightGBM, Keras/TensorFlow, SHAP, Optuna, klib, missingno
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logo=catboost&logoColor=black)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square&logo=lightgbm&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-8A2BE2?style=flat-square)
+![Optuna](https://img.shields.io/badge/Optuna-0077B5?style=flat-square)
+![klib](https://img.shields.io/badge/klib-333333?style=flat-square)
+![missingno](https://img.shields.io/badge/missingno-333333?style=flat-square)
